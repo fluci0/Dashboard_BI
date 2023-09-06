@@ -1,7 +1,10 @@
 # Dashboard_BI
  Tableros de datos
 
-![F1_ANALISIS-1](https://github.com/fluci0/Dashboard_BI/assets/134448340/2b2e3cbc-aec2-4ef2-9bc2-fd50f00a1c3b)
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://github.com/fluci0/Dashboard_BI/blob/main/F1_ANALISIS-1.jpg)</span><span>)</span>
+
+https://github.com/fluci0/Dashboard_BI/blob/main/F1_ANALISIS-1.jpg
+
 
 
 
