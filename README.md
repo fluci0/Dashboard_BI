@@ -1,6 +1,7 @@
 # Dashboard_BI
- Tableros de datos
-
+Dashboard
+F1 Analista was an Instagram page that I created to visualice data related to F1 races - Unfortunately, no more on this project
+ 
 ![F1_ANALISIS-ITALIA23-1](https://github.com/fluci0/Dashboard_BI/assets/134448340/cbc8b915-d74d-4e54-ab28-98778e8188b4)
 ![F1_ANALISIS-ITALIA23-3](https://github.com/fluci0/Dashboard_BI/assets/134448340/cb1dcdc9-6ab3-4a30-af11-ae964401e029)
 ![F1_ANALISIS-ITALIA23-2](https://github.com/fluci0/Dashboard_BI/assets/134448340/7f0887f1-fb62-4ae4-8f3e-4a9c9302ccc2)
